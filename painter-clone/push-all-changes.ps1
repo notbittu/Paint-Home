@@ -7,7 +7,7 @@ cd .\painter
 git add .
 
 # Commit with a meaningful message
-git commit -m "Complete implementation of painter app with drawing capabilities"
+git commit -m "Enhanced UI with improved color selection features, shadow tracking, NFD Vision 360, and realistic color blending"
 
 # Push to GitHub
 git push origin main
